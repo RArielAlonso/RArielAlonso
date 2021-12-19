@@ -4,10 +4,22 @@ I'm an industrial engineer with experience in working with data and KPI.
 
 I can help you with reach your objetives
 
+### Skills
+
+- Python
+- SQL
+- SAP
+- Qlik
+- Power BI
+- Excel
+
 ### Where to find me
 
 [Whatsapp](https://wa.me/541122341299)
+
 [Linkedin](https://www.linkedin.com/in/raularielalonso/?locale=en_US)
+
+[E-mail](rariel.alonso@gmail.com)
 
 
 
