@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-#I'm an industrial engineer with experience in working with data and KPI.
+I'm an industrial engineer with experience in working with data and KPI.
 
-#I can help you with reach your objetives
+I can help you with reach your objetives
+
+### Where to find me
+
+[Whatsapp](https://wa.me/541122341299)
+[Linkedin](https://www.linkedin.com/in/raularielalonso/?locale=en_US)
+
 
 
 <!--
