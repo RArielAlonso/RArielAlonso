@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#I'm an industrial engineer with experience in working with data and KPI.
+
+#I can help you with reach your objetives
+
+
 <!--
 **RArielAlonso/RArielAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
