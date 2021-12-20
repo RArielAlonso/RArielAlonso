@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Ariel Alonso 👋
 
 I'm an industrial engineer with experience in working with data and KPI.
 
