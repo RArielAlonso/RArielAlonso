@@ -19,7 +19,7 @@ I can help you with reach your objetives
 
 [Linkedin](https://www.linkedin.com/in/raularielalonso/?locale=en_US)
 
-[E-mail](rariel.alonso@gmail.com)
+[E-mail](mailto:rariel.alonso@gmail.com)
 
 
 
