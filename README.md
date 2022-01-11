@@ -12,6 +12,7 @@ I can help you with reach your objetives
 - Qlik
 - Power BI
 - Excel
+- APis
 
 ### Where to find me
 
