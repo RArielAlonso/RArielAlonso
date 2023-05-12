@@ -13,6 +13,8 @@ I can help you with reach your objetives
 - Power BI
 - Excel
 - APis
+- AWS
+- Airflow
 
 ### Where to find me
 
