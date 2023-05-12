@@ -15,6 +15,7 @@ I can help you with reach your objetives
 - APis
 - AWS
 - Airflow
+- HTML/CSS
 
 ### Where to find me
 
