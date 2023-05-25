@@ -7,15 +7,17 @@ I can help you with reach your objetives
 ### Skills
 
 - Python
-- SQL
+- R
+- SQL (MySQL, PostgeSQL)
 - SAP
-- Qlik
+- Qlik (Cloud)
 - Power BI
 - Excel
 - APis
 - AWS
 - Airflow
 - HTML/CSS
+- Pentaho Data Integation
 
 ### Where to find me
 
