@@ -18,6 +18,13 @@ I can help you with reach your objetives
 - Airflow
 - HTML/CSS
 - Pentaho Data Integation
+- GCP
+- Airflow
+- Poetry
+- Mage
+- Spark
+- CI/CD
+- Cloud Infrastructure
 
 ### Where to find me
 
