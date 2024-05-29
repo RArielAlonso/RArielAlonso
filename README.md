@@ -25,6 +25,7 @@ I can help you with reach your objetives
 - Spark
 - CI/CD
 - Cloud Infrastructure
+- Scikit-learn
 
 ### Where to find me
 
